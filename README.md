@@ -1,5 +1,7 @@
 # bazel-intelij-debug-repro
 
+Bazel plugin version: `2022.02.23.0.0-api-version-212`
+
 This repository was created for the purpose of reproducing some behaviour to share with
 https://github.com/bazelbuild/intellij. There is different behaviour when running versus
 debugging a target.
