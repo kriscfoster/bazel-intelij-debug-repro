@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export MY_VARIABLE="hello world!"
+${BAZEL_REAL} "$@"
